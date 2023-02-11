@@ -1,0 +1,14 @@
+{
+  "name": "npmmodule",
+  "version": "1.0.0",
+  "description": "Npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chamoli",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
